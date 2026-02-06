@@ -168,4 +168,3 @@ t_test_results = t_test_at_risk_vs_safe(data, 'At_Risk', 'MedianFamilyIncome')
 - [ ] Machine learning models for risk prediction (Logistic Regression, Random Forest, XGBoost)
 - [ ] SHAP analysis for model interpretability
 - [ ] Geospatial visualization dashboard (Folium, Plotly)
-- U.S. Census TIGER/Line shapefiles
